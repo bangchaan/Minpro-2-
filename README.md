@@ -1,6 +1,6 @@
-# Minpro-2-
+# Minpro-2- DDP 2025
 AULIA AISYAH AL HUMAIRA 25'A DDP
-# 🚚 Program Jasa Pengiriman Barang (Python + PrettyTable)
+# Program Jasa Pengiriman Barang 
 
 ## Deskripsi Singkat  
 Program ini dibuat untuk mensimulasikan sistem **jasa pengiriman barang** sederhana. 
